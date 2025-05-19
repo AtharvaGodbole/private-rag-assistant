@@ -52,9 +52,7 @@ A hands-on, production-ready Retrieval-Augmented Generation (RAG) system powered
 
 ## 🚀 Getting Started
 
-### 1. Clone & Install
-
-```bash
+1. Clone & Install
 git clone https://github.com/pixegami/rag-tutorial-v2.git
 cd rag-tutorial-v2
 pip install -r requirements.txt
