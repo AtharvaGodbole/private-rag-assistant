@@ -63,7 +63,7 @@ Built from scratch using open-source tools, this project is ideal for AI enginee
 
 ### 1. Clone the Repo
 git clone https://github.com/AtharvaGodbole/private-rag-assistant.git
-cd rag-tutorial-v2
+cd private-rag-assistant
 pip install -r requirements.txt
 
 ### 2. Add Your PDFs
