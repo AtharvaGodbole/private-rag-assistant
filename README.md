@@ -79,7 +79,8 @@ python query_data.py "What is this document about?"
 python test_rag.py
 
 
-🧩 File Structure
+## 🧩 File Structure
+'''
 ├── data/                      # Input documents (PDFs)
 ├── get_embedding_function.py  # Embedding model loader
 ├── populate_database.py       # Document chunking + vectorization
@@ -87,12 +88,11 @@ python test_rag.py
 ├── test_rag.py                # Tests for the RAG pipeline
 ├── requirements.txt           # Dependencies
 └── README.md                  # This file ✨
-
+'''
 🌐 Use Case Examples
+
 📝 Research Assistant — Upload academic papers and ask for summaries
-
 ⚖️ Legal AI — Analyze contracts and extract clauses
-
 📚 Knowledge Base — Query internal docs, FAQs, handbooks, etc.
 
 👔 Why This Project Stands Out
