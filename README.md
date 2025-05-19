@@ -89,19 +89,19 @@ python test_rag.py
 ├── requirements.txt           # Dependencies
 └── README.md                  # This file ✨
 '''
-🌐 Use Case Examples
 
+## 🌐 Use Case Examples
 📝 Research Assistant — Upload academic papers and ask for summaries
 ⚖️ Legal AI — Analyze contracts and extract clauses
 📚 Knowledge Base — Query internal docs, FAQs, handbooks, etc.
 
-👔 Why This Project Stands Out
+## 👔 Why This Project Stands Out
 ✅ Real-World Relevance — Mirrors how RAG systems are deployed in production
 ✅ Offline-First — Ideal for privacy-sensitive industries
 ✅ Recruiter-Ready — Demonstrates full-stack AI/ML capability: ingestion → embedding → retrieval → generation
 
-🤝 About the Author
+## 🤝 About the Author
 Built with ❤️ by Atharva Godbole — an AI/ML Engineer passionate about open-source GenAI, document intelligence, and privacy-first AI.
 
-📫 Email: avsgod21@gmail.com
-💼 LinkedIn: linkedin.com/in/atharvagodbole98
+### 📫 Email: avsgod21@gmail.com
+### 💼 LinkedIn: linkedin.com/in/atharvagodbole98
