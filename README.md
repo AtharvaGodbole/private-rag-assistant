@@ -62,7 +62,7 @@ Built from scratch using open-source tools, this project is ideal for AI enginee
 ## 🚀 Quickstart
 
 ### 1. Clone the Repo
-git clone https://github.com/pixegami/rag-tutorial-v2.git
+git clone https://github.com/AtharvaGodbole/private-rag-assistant.git
 cd rag-tutorial-v2
 pip install -r requirements.txt
 
